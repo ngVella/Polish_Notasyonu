@@ -1,0 +1,16 @@
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\bin\Debug\net5.0\Polish_Notasyonu.exe
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\bin\Debug\net5.0\Polish_Notasyonu.deps.json
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\bin\Debug\net5.0\Polish_Notasyonu.runtimeconfig.json
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\bin\Debug\net5.0\Polish_Notasyonu.runtimeconfig.dev.json
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\bin\Debug\net5.0\Polish_Notasyonu.dll
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\bin\Debug\net5.0\Polish_Notasyonu.pdb
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\obj\Debug\net5.0\Polish_Notasyonu.csproj.AssemblyReference.cache
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\obj\Debug\net5.0\Polish_Notasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\obj\Debug\net5.0\Polish_Notasyonu.AssemblyInfoInputs.cache
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\obj\Debug\net5.0\Polish_Notasyonu.AssemblyInfo.cs
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\obj\Debug\net5.0\Polish_Notasyonu.csproj.CoreCompileInputs.cache
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\obj\Debug\net5.0\Polish_Notasyonu.dll
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\obj\Debug\net5.0\refint\Polish_Notasyonu.dll
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\obj\Debug\net5.0\Polish_Notasyonu.pdb
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\obj\Debug\net5.0\Polish_Notasyonu.genruntimeconfig.cache
+C:\Users\59s59\Desktop\Polish_Notasyonu\Polish_Notasyonu\Polish_Notasyonu\obj\Debug\net5.0\ref\Polish_Notasyonu.dll
